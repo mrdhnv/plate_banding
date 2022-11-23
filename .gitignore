@@ -1,0 +1,8 @@
+venv/
+archieve_files/
+others/generate_pdf_Sheshenin.py
+# IDEA config files
+.idea/
+
+/.DS_Store
+__pycache__/
