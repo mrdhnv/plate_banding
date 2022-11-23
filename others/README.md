@@ -27,6 +27,6 @@
 ### 4. Файл [slider_visualisation.py](slider_visualisation.py).
 
 Данный файл позволяет получить интерактивный график, демонстрирующий различие различных теорий с ростом отношения
-${E_1} / {G_{13}$.
+$\frac{E_1}{G_{13}$.
 
 <img src="https://github.com/mrdhnv/Images/blob/main/Others/Plate_bending.gif">
